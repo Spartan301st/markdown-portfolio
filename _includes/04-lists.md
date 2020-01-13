@@ -1,14 +1,14 @@
 ### Some of my favourite activities are:
-- Reading books
+- Reading books :books:
   * BUSINESS
   * SCI-FI & FANTASY
   * SCIENCE & TECHNOLOGY
   * SELF DEVELOPMENT
   * SPORTS
-- Studying CS & IT
-- Doing Workout
+- Studying CS & IT :computer:
+- Doing Workout :muscle:
   * Calisthenics
   * Crossfit
-- Playing Strategy games and RPGs
+- Playing Strategy games and RPGs :video_game:
   * AOE
   * Diablo II
